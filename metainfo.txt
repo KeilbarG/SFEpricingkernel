@@ -1,6 +1,6 @@
 Name of QuantLet:	SFEpricingkernel
 
-Published in:
+Published in:		Statistics of Financial Markets I
 
 Description:   		'Estimates and plots the empirical pricing kernel 
 			 (EPK) for historical index and option data 
@@ -14,10 +14,6 @@ Keywords:      		'black-scholes, option-price, state-price-density,
 			 Rookley, garch'
 
 See also:      		 SFEVolSurfPlot, XFGSPDcb, XFGSPDcb2, XFGSPDcom
-
-Usage:         		'Save index data file and option data file in working 
-	     	 	 directory and adjust the names as well as the parameters 
-			 for the simulation and calculation (under (0)).' 
 
 Author:       		 Georg Keilbar, Lucas Rohde
 
